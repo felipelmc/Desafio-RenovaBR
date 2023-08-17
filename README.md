@@ -1,9 +1,6 @@
 # **Desafio Técnico: RenovaBR**
-## Estagiário em Dados
 
-Este projeto implementa técnicas típicas de Ciência de Dados ao desafio proposto pelo **RenovaBR**, correspondente à segunda fase do processo seletivo para o cargo de Estagiário em Dados (Produto).
-
-O desafio consiste em **analisar dados eleitorais do estado de São Paulo e seus municípios nas eleições de 2020**. Conforme sugerido pelo RenovaBR no [documento que descreve o desafio](desafio-tecnico.pdf), o projeto segue o seguinte roteiro:
+Este projeto implementa técnicas típicas de Ciência de Dados ao desafio proposto pelo **RenovaBR**. O desafio consiste em **analisar dados eleitorais do estado de São Paulo e seus municípios nas eleições de 2020**. Conforme sugerido pelo RenovaBR no [documento que descreve o desafio](desafio-tecnico.pdf), o projeto segue o seguinte roteiro:
 
 🧹 Pré-processamento e tratamento dos dados
 
