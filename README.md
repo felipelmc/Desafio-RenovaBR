@@ -16,11 +16,11 @@ A análise exploratória estará conjugada à resolução de algumas questões p
 
 A primeira célula do notebook `analysis.ipynb` contém as informações necessárias sobre bibliotecas utilizadas, suas versões e sistema operacional no qual o projeto foi desenvolvido. 
 
-LEMBRAR DE ADICIONAR O PRINT DA PRIMEIRA CÉLULA AQUI
+![versions](../images/versioning.png)
 
 Ao longo da implementação, forneço instruções para replicação do projeto - por exemplo, quais variáveis devem ser alteradas para que seja possível acessar os arquivos do projeto em outro ambiente.
 
-![example1](images/example1.png)
+![example1](../images/example1.png)
 
 > Por conta do limite de tamanho dos arquivos no GitHub, é necessário adicionar manualmente a pasta com os dados.
 
